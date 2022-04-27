@@ -3,3 +3,7 @@
   font-size: 12px;
   line-height: 1.5;
 }
+
+.intro__item span {
+  font-weight: 400;
+}
