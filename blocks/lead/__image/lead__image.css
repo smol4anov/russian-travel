@@ -1,4 +1,8 @@
 .lead__image {
+  margin: 0;
+}
+
+.lead__image img {
   width: 100%;
   margin-bottom: 8px;
 }
